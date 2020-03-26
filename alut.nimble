@@ -1,6 +1,6 @@
 # Package
 
-version       = "1.1.0.1"
+version       = "1.1.0.2"
 author        = "Robert M. Thomson"
 description   = "OpenAL Utility Toolkit (ALUT)"
 license       = "LGPL-2.1"
